@@ -1,0 +1,6 @@
+whatsapp.search.button=xpath=//android.widget.TextView[@content-desc="Search"]
+whatsapp.search.textbox=xpath=//android.widget.EditText[@resource-id="com.whatsapp:id/search_src_text"]
+whatsapp.contacts.names=xpath=//*[@resource-id="com.whatsapp:id/conversations_row_contact_name"]
+
+whatsapp.message.textbox=xpath=//*[@resource-id="com.whatsapp:id/entry"]
+whatsapp.sendMessage.button=xpath=//*[@resource-id="com.whatsapp:id/send"]
